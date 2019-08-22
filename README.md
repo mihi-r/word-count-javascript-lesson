@@ -1,6 +1,8 @@
 # Word Counter - A JavaScript Lesson
 Word Counter is a simple word count application created to introduce students involved in the Technology Committee in CEAS Tribunal to modern JavaScript features mainly introduced in ES6 (ES2015) and onwards. 
 
+For the TypeScript version, checkout out [Word Counter - A TypeScript Lesson](https://github.com/mihi-r/word-counter-ts). It acts as a part 2 to this lesson.
+
 ## Functionality
 ### Primary
 The words to count input box will accept sentences and once the count button is pressed, the sentence will be parsed by the spaces in the text while filtering out punctuation (aside from hyphens). Each word of the parsed result will be displayed below along with the word count. 
